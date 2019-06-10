@@ -1,0 +1,19 @@
+body,dl,dd,dt,p,h1,h2,h3,h4,h5,h6{ margin: 0;}
+ul,ol{margin: 0; list-style: none; padding: 0;}
+a{ text-decoration: none; color:inherit; }
+*{ margin: 0; padding: 0; }
+a img{ display:block; border:none;}
+.clearfix:after{ content:""; display: block; clear: both;}
+.fl-l{ float: left;}
+.fl-r{ float: right;}
+/* ===========================绑定界面========================== */
+#binding{
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+}
+.btn{
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+}
